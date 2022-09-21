@@ -16,5 +16,6 @@ _Os vídeos não são necessariamente dos mesmos canais, portanto, procure assis
 - ###### [Canal "Código Fonte TV"](https://www.youtube.com/c/codigofontetv) 
 
 ---
+**[Apresentação utilizada na aula ao vivo do dia 19/09](https://github.com/cwi-reset/edicao-04-level-1/files/9617006/Automacao.de.testes.pdf)**
 
 👈 [Voltar para o material](../material.md)
