@@ -116,7 +116,7 @@ Este é o cronograma inicial que planejamos:
 | 09/09 das 19h as 20:30h | Final de módulo (2)                  | [Gravação - Live 09/09](https://vimeo.com/744736353/d3fc2e6f9a)           | [Feedback Live](https://forms.gle/154yuwaBFqZV3k1i9) |
 | 16/09 das 19h as 20:30h | Final de módulo (3 e 4) + Depoimento | [Gravação - Live 16/09](https://vimeo.com/744737034/cdc9fee0ff)           | [Feedback Live](https://forms.gle/Guher3oh13JfxjmF6) | 													
 | 19/09 das 19h as 20:30h | Final de módulo (5)                  | [Gravação - Live 19/09](https://vimeo.com/744737341/e962f5796c)           | [Feedback Live](https://forms.gle/ZECKDiWR4ZQgDvCh9) | 							
-| 22/09 das 19h as 20:30h | Final de módulo (6) + Depoimento     | https://vimeo.com/event/2389793/34baad3713                                |  													|
+| 22/09 das 19h as 20:30h | Final de módulo (6) + Depoimento     | [Gravação - Live 22/09](https://vimeo.com/744737754/284bcf0f3f)           | [Feedback Live](https://forms.gle/2RXGdspmRVwXUqkT9) |
 
 ...
 
